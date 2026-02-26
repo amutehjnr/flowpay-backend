@@ -1,0 +1,161 @@
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-01.bchvrp1.mongodb.net","timestamp":"2026-02-24T11:07:10.089Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-24T11:07:15.598Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1139:18)\n    at afterConnectMultiple (node:net:1712:7)","timestamp":"2026-02-24T11:07:15.609Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1139:18)\n    at afterConnectMultiple (node:net:1712:7)","timestamp":"2026-02-24T11:07:15.678Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1139:18)\n    at afterConnectMultiple (node:net:1712:7)","timestamp":"2026-02-24T11:07:15.874Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1139:18)\n    at afterConnectMultiple (node:net:1712:7)","timestamp":"2026-02-24T11:07:16.056Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-00.bchvrp1.mongodb.net","timestamp":"2026-02-24T11:33:58.533Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-24T11:34:02.121Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-02-24T11:34:02.381Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-02.bchvrp1.mongodb.net","timestamp":"2026-02-24T11:57:05.186Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-24T11:57:07.449Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-02-24T11:57:08.515Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-02.bchvrp1.mongodb.net","timestamp":"2026-02-24T12:00:54.785Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-24T12:00:57.810Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-02-24T12:00:58.823Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-00.bchvrp1.mongodb.net","timestamp":"2026-02-24T12:02:52.655Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-24T12:02:56.607Z"}
+{"code":"ERR_SSL_WRONG_VERSION_NUMBER","level":"error","library":"SSL routines","message":"Redis error: 94400000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","reason":"wrong version number","stack":"Error: 94400000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","timestamp":"2026-02-24T12:02:57.192Z"}
+{"level":"info","message":"Redis connection closed","timestamp":"2026-02-24T12:02:57.195Z"}
+{"code":"ERR_SSL_WRONG_VERSION_NUMBER","level":"error","library":"SSL routines","message":"Redis error: 94400000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","reason":"wrong version number","stack":"Error: 94400000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","timestamp":"2026-02-24T12:02:57.849Z"}
+{"level":"info","message":"Redis connection closed","timestamp":"2026-02-24T12:02:57.854Z"}
+{"code":"ERR_SSL_WRONG_VERSION_NUMBER","level":"error","library":"SSL routines","message":"Redis error: 94400000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","reason":"wrong version number","stack":"Error: 94400000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","timestamp":"2026-02-24T12:02:59.619Z"}
+{"level":"info","message":"Redis connection closed","timestamp":"2026-02-24T12:02:59.653Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-02.bchvrp1.mongodb.net","timestamp":"2026-02-24T12:03:05.880Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-24T12:03:09.398Z"}
+{"code":"ERR_SSL_WRONG_VERSION_NUMBER","level":"error","library":"SSL routines","message":"Redis error: 9C3E0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","reason":"wrong version number","stack":"Error: 9C3E0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","timestamp":"2026-02-24T12:03:09.898Z"}
+{"level":"info","message":"Redis connection closed","timestamp":"2026-02-24T12:03:09.905Z"}
+{"code":"ERR_SSL_WRONG_VERSION_NUMBER","level":"error","library":"SSL routines","message":"Redis error: 9C3E0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","reason":"wrong version number","stack":"Error: 9C3E0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","timestamp":"2026-02-24T12:03:11.493Z"}
+{"level":"info","message":"Redis connection closed","timestamp":"2026-02-24T12:03:11.496Z"}
+{"code":"ERR_SSL_WRONG_VERSION_NUMBER","level":"error","library":"SSL routines","message":"Redis error: 9C3E0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","reason":"wrong version number","stack":"Error: 9C3E0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","timestamp":"2026-02-24T12:03:12.244Z"}
+{"level":"info","message":"Redis connection closed","timestamp":"2026-02-24T12:03:12.251Z"}
+{"code":"ERR_SSL_WRONG_VERSION_NUMBER","level":"error","library":"SSL routines","message":"Redis error: 9C3E0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","reason":"wrong version number","stack":"Error: 9C3E0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","timestamp":"2026-02-24T12:03:12.961Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-01.bchvrp1.mongodb.net","timestamp":"2026-02-24T12:04:45.590Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-24T12:04:48.422Z"}
+{"code":"ERR_SSL_WRONG_VERSION_NUMBER","level":"error","library":"SSL routines","message":"Redis client error: 74400000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","reason":"wrong version number","stack":"Error: 74400000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","timestamp":"2026-02-24T12:04:48.878Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-00.bchvrp1.mongodb.net","timestamp":"2026-02-24T12:07:08.422Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-24T12:07:10.805Z"}
+{"code":"ERR_SSL_WRONG_VERSION_NUMBER","level":"error","library":"SSL routines","message":"Redis client error: EC1C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","reason":"wrong version number","stack":"Error: EC1C0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","timestamp":"2026-02-24T12:07:11.320Z"}
+{"code":"ETIMEOUT","hostname":"_mongodb._tcp.suicidenote.bchvrp1.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ETIMEOUT _mongodb._tcp.suicidenote.bchvrp1.mongodb.net","stack":"Error: querySrv ETIMEOUT _mongodb._tcp.suicidenote.bchvrp1.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)","syscall":"querySrv","timestamp":"2026-02-24T12:10:23.907Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-02.bchvrp1.mongodb.net","timestamp":"2026-02-24T12:20:04.591Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-24T12:20:09.166Z"}
+{"level":"info","message":"Connecting to Redis Cloud...","timestamp":"2026-02-24T12:20:09.169Z"}
+{"level":"info","message":"Host: redis-13836.c12.us-east-1-4.ec2.cloud.redislabs.com","timestamp":"2026-02-24T12:20:09.170Z"}
+{"level":"info","message":"Port: 13836","timestamp":"2026-02-24T12:20:09.172Z"}
+{"level":"info","message":"Username: default","timestamp":"2026-02-24T12:20:09.173Z"}
+{"code":"ERR_SSL_WRONG_VERSION_NUMBER","level":"error","library":"SSL routines","message":"Redis client error: B40D0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","reason":"wrong version number","stack":"Error: B40D0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\ssl3_record.c:355:\n","timestamp":"2026-02-24T12:20:09.879Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-01.bchvrp1.mongodb.net","timestamp":"2026-02-24T12:21:46.687Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-24T12:21:50.653Z"}
+{"level":"info","message":"Connecting to Redis Cloud...","timestamp":"2026-02-24T12:21:50.657Z"}
+{"level":"info","message":"Host: redis-13836.c12.us-east-1-4.ec2.cloud.redislabs.com","timestamp":"2026-02-24T12:21:50.660Z"}
+{"level":"info","message":"Port: 13836","timestamp":"2026-02-24T12:21:50.662Z"}
+{"level":"info","message":"Connection URL format: rediss://default:***@host:port","timestamp":"2026-02-24T12:21:50.665Z"}
+{"level":"error","message":"Redis client error:","timestamp":"2026-02-24T12:21:51.214Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-02.bchvrp1.mongodb.net","timestamp":"2026-02-24T12:31:51.214Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-24T12:31:57.093Z"}
+{"level":"info","message":"Connecting to Redis Cloud...","timestamp":"2026-02-24T12:31:57.095Z"}
+{"level":"info","message":"Host: redis-13836.c12.us-east-1-4.ec2.cloud.redislabs.com","timestamp":"2026-02-24T12:31:57.096Z"}
+{"level":"info","message":"Port: 13836","timestamp":"2026-02-24T12:31:57.097Z"}
+{"level":"info","message":"Attempting connection WITHOUT TLS...","timestamp":"2026-02-24T12:31:57.098Z"}
+{"level":"info","message":"✅ Socket connected to Redis","timestamp":"2026-02-24T12:31:57.360Z"}
+{"level":"info","message":"✅ Redis client ready and authenticated","timestamp":"2026-02-24T12:31:57.867Z"}
+{"level":"info","message":"Initializing rate limiters with Redis...","timestamp":"2026-02-24T12:31:58.229Z"}
+{"level":"info","message":"✅ Rate limiters initialized successfully","timestamp":"2026-02-24T12:31:58.233Z"}
+{"level":"info","message":"✅ Redis PING: PONG","timestamp":"2026-02-24T12:32:00.821Z"}
+{"level":"info","message":"✅ Redis read/write test: connected","timestamp":"2026-02-24T12:32:01.521Z"}
+{"level":"info","message":"✅ Redis fully operational","timestamp":"2026-02-24T12:32:01.522Z"}
+{"level":"error","message":"MongoDB connection error: connection 2 to 65.62.27.93:27017 timed out","stack":"MongoNetworkTimeoutError: connection 2 to 65.62.27.93:27017 timed out\n    at Timeout._onTimeout (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\node_modules\\mongoose\\node_modules\\mongodb\\lib\\cmap\\connection.js:127:32)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)","timestamp":"2026-02-24T12:39:59.122Z"}
+{"connectionGeneration":0,"level":"error","message":"MongoDB connection error: connection timed out","stack":"MongoNetworkTimeoutError: connection timed out\n    at connectionFailureError (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\node_modules\\mongoose\\node_modules\\mongodb\\lib\\cmap\\connect.js:369:20)\n    at TLSSocket.<anonymous> (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\node_modules\\mongoose\\node_modules\\mongodb\\lib\\cmap\\connect.js:290:22)\n    at Object.onceWrapper (node:events:638:28)\n    at TLSSocket.emit (node:events:524:28)\n    at Socket._onTimeout (node:net:609:8)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)","timestamp":"2026-02-24T12:42:58.776Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-01.bchvrp1.mongodb.net","timestamp":"2026-02-24T12:57:50.841Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-24T12:57:53.851Z"}
+{"level":"info","message":"Connecting to Redis Cloud...","timestamp":"2026-02-24T12:57:53.853Z"}
+{"level":"info","message":"Host: redis-13836.c12.us-east-1-4.ec2.cloud.redislabs.com","timestamp":"2026-02-24T12:57:53.855Z"}
+{"level":"info","message":"Port: 13836","timestamp":"2026-02-24T12:57:53.856Z"}
+{"level":"info","message":"Attempting connection WITHOUT TLS...","timestamp":"2026-02-24T12:57:53.857Z"}
+{"level":"info","message":"✅ Socket connected to Redis","timestamp":"2026-02-24T12:57:54.086Z"}
+{"level":"info","message":"✅ Redis client ready and authenticated","timestamp":"2026-02-24T12:57:54.536Z"}
+{"level":"info","message":"Initializing rate limiters with Redis...","timestamp":"2026-02-24T12:57:54.649Z"}
+{"level":"info","message":"✅ Rate limiters initialized successfully","timestamp":"2026-02-24T12:57:54.654Z"}
+{"argument":"target","code":"INVALID_ARGUMENT","level":"error","message":"❌ Blockchain service initialization failed: invalid value for Contract target (argument=\"target\", value=null, code=INVALID_ARGUMENT, version=6.16.0)","shortMessage":"invalid value for Contract target","stack":"TypeError: invalid value for Contract target (argument=\"target\", value=null, code=INVALID_ARGUMENT, version=6.16.0)\n    at makeError (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\node_modules\\ethers\\lib.commonjs\\utils\\errors.js:130:21)\n    at assert (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\node_modules\\ethers\\lib.commonjs\\utils\\errors.js:157:15)\n    at assertArgument (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\node_modules\\ethers\\lib.commonjs\\utils\\errors.js:169:5)\n    at new BaseContract (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\node_modules\\ethers\\lib.commonjs\\contract\\contract.js:546:39)\n    at new Contract (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\node_modules\\ethers\\lib.commonjs\\contract\\contract.js:957:1)\n    at BlockchainService.initialize (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\src\\services\\blockchain.service.js:54:23)\n    at startServer (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\src\\app.js:95:29)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2026-02-24T12:57:56.158Z"}
+{"level":"warn","message":"Server continuing without blockchain service","timestamp":"2026-02-24T12:57:56.242Z"}
+{"level":"info","message":"Payment service initialized","timestamp":"2026-02-24T12:57:56.313Z"}
+{"level":"info","message":"Scheduled jobs initialized","timestamp":"2026-02-24T12:57:56.978Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-02-24T12:57:57.014Z"}
+{"level":"info","message":"Environment: production","timestamp":"2026-02-24T12:57:57.015Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2026-02-24T12:57:57.015Z"}
+{"level":"info","message":"✅ Redis PING: PONG","timestamp":"2026-02-24T12:57:57.018Z"}
+{"level":"info","message":"✅ Redis read/write test: connected","timestamp":"2026-02-24T12:57:57.624Z"}
+{"level":"info","message":"✅ Redis fully operational","timestamp":"2026-02-24T12:57:57.628Z"}
+{"level":"info","message":"Running pending transaction check","timestamp":"2026-02-24T13:00:00.083Z"}
+{"level":"info","message":"Running scheduled payment check","timestamp":"2026-02-24T13:00:00.099Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-24T13:00:00.114Z"}
+{"level":"info","message":"Queued 0 payments for processing","timestamp":"2026-02-24T13:00:00.337Z"}
+{"level":"info","message":"Received shutdown signal, closing connections...","timestamp":"2026-02-24T13:01:12.435Z"}
+{"code":"ESERVFAIL","hostname":"_mongodb._tcp.suicidenote.bchvrp1.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ESERVFAIL _mongodb._tcp.suicidenote.bchvrp1.mongodb.net","stack":"Error: querySrv ESERVFAIL _mongodb._tcp.suicidenote.bchvrp1.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)","syscall":"querySrv","timestamp":"2026-02-24T13:01:27.270Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-00.bchvrp1.mongodb.net","timestamp":"2026-02-24T13:02:02.525Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-24T13:02:06.828Z"}
+{"level":"info","message":"Connecting to Redis Cloud...","timestamp":"2026-02-24T13:02:06.831Z"}
+{"level":"info","message":"Host: redis-13836.c12.us-east-1-4.ec2.cloud.redislabs.com","timestamp":"2026-02-24T13:02:06.833Z"}
+{"level":"info","message":"Port: 13836","timestamp":"2026-02-24T13:02:06.834Z"}
+{"level":"info","message":"Attempting connection WITHOUT TLS...","timestamp":"2026-02-24T13:02:06.836Z"}
+{"level":"info","message":"✅ Socket connected to Redis","timestamp":"2026-02-24T13:02:07.119Z"}
+{"level":"info","message":"✅ Redis client ready and authenticated","timestamp":"2026-02-24T13:02:07.626Z"}
+{"level":"info","message":"Initializing rate limiters with Redis...","timestamp":"2026-02-24T13:02:07.652Z"}
+{"level":"info","message":"✅ Rate limiters initialized successfully","timestamp":"2026-02-24T13:02:07.678Z"}
+{"level":"info","message":"✅ Redis PING: PONG","timestamp":"2026-02-24T13:02:07.966Z"}
+{"level":"info","message":"✅ Redis read/write test: connected","timestamp":"2026-02-24T13:02:08.618Z"}
+{"level":"info","message":"✅ Redis fully operational","timestamp":"2026-02-24T13:02:08.620Z"}
+{"level":"info","message":"✅ Blockchain service initialized on Avalanche Fuji (block 52123587)","timestamp":"2026-02-24T13:02:09.639Z"}
+{"level":"info","message":"✅ Event listeners started","timestamp":"2026-02-24T13:02:09.667Z"}
+{"level":"info","message":"Payment service initialized","timestamp":"2026-02-24T13:02:09.668Z"}
+{"level":"info","message":"Scheduled jobs initialized","timestamp":"2026-02-24T13:02:09.768Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-02-24T13:02:09.777Z"}
+{"level":"info","message":"Environment: production","timestamp":"2026-02-24T13:02:09.779Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2026-02-24T13:02:09.780Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-24T13:05:00.060Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-00.bchvrp1.mongodb.net","timestamp":"2026-02-24T13:06:33.272Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-24T13:06:37.435Z"}
+{"level":"info","message":"Connecting to Redis Cloud...","timestamp":"2026-02-24T13:06:37.437Z"}
+{"level":"info","message":"Host: redis-13836.c12.us-east-1-4.ec2.cloud.redislabs.com","timestamp":"2026-02-24T13:06:37.439Z"}
+{"level":"info","message":"Port: 13836","timestamp":"2026-02-24T13:06:37.441Z"}
+{"level":"info","message":"Attempting connection WITHOUT TLS...","timestamp":"2026-02-24T13:06:37.442Z"}
+{"level":"info","message":"✅ Socket connected to Redis","timestamp":"2026-02-24T13:06:37.715Z"}
+{"level":"info","message":"✅ Redis client ready and authenticated","timestamp":"2026-02-24T13:06:38.594Z"}
+{"level":"info","message":"Initializing rate limiters with Redis...","timestamp":"2026-02-24T13:06:38.607Z"}
+{"level":"info","message":"✅ Rate limiters initialized successfully","timestamp":"2026-02-24T13:06:38.615Z"}
+{"level":"info","message":"✅ Filter error suppression enabled","timestamp":"2026-02-24T13:06:39.019Z"}
+{"level":"info","message":"✅ Redis PING: PONG","timestamp":"2026-02-24T13:06:39.054Z"}
+{"level":"info","message":"✅ Redis read/write test: connected","timestamp":"2026-02-24T13:06:40.477Z"}
+{"level":"info","message":"✅ Redis fully operational","timestamp":"2026-02-24T13:06:40.478Z"}
+{"level":"info","message":"✅ Blockchain service initialized on Avalanche Fuji (block 52123791)","timestamp":"2026-02-24T13:06:41.648Z"}
+{"level":"info","message":"✅ Event listeners started","timestamp":"2026-02-24T13:06:41.679Z"}
+{"level":"info","message":"Payment service initialized","timestamp":"2026-02-24T13:06:41.681Z"}
+{"level":"info","message":"Scheduled jobs initialized","timestamp":"2026-02-24T13:06:41.838Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-02-24T13:06:41.847Z"}
+{"level":"info","message":"Environment: production","timestamp":"2026-02-24T13:06:41.847Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2026-02-24T13:06:41.850Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-24T13:10:00.044Z"}
+{"level":"info","message":"Running pending transaction check","timestamp":"2026-02-24T13:15:00.133Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-24T13:15:00.146Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-24T13:20:00.059Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-24T13:25:00.058Z"}
+{"level":"info","message":"Running pending transaction check","timestamp":"2026-02-24T13:30:00.100Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-24T13:30:00.106Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-24T13:35:00.029Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-24T13:40:00.072Z"}
+{"level":"info","message":"Running pending transaction check","timestamp":"2026-02-24T13:45:00.097Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-24T13:45:00.128Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-24T13:50:00.080Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-24T13:55:00.136Z"}
+{"level":"info","message":"Running scheduled payment check","timestamp":"2026-02-24T14:00:00.100Z"}
+{"level":"info","message":"Running pending transaction check","timestamp":"2026-02-24T14:00:00.109Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-24T14:00:00.125Z"}
+{"level":"info","message":"Queued 0 payments for processing","timestamp":"2026-02-24T14:00:00.477Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-24T14:05:00.045Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-24T14:10:00.053Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-24T14:15:00.060Z"}
+{"level":"info","message":"Running pending transaction check","timestamp":"2026-02-24T14:15:00.066Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-24T14:20:00.106Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-24T14:25:00.046Z"}
+{"level":"info","message":"Running pending transaction check","timestamp":"2026-02-24T14:30:00.083Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-24T14:30:00.089Z"}

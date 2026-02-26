@@ -1,0 +1,401 @@
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-01.bchvrp1.mongodb.net","timestamp":"2026-02-26T18:55:07.418Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-26T18:55:09.553Z"}
+{"level":"info","message":"Connecting to Redis Cloud...","timestamp":"2026-02-26T18:55:09.555Z"}
+{"level":"info","message":"Host: redis-13836.c12.us-east-1-4.ec2.cloud.redislabs.com","timestamp":"2026-02-26T18:55:09.556Z"}
+{"level":"info","message":"Port: 13836","timestamp":"2026-02-26T18:55:09.558Z"}
+{"level":"info","message":"Attempting connection WITHOUT TLS...","timestamp":"2026-02-26T18:55:09.560Z"}
+{"level":"info","message":"✅ Socket connected to Redis","timestamp":"2026-02-26T18:55:11.126Z"}
+{"level":"info","message":"✅ Redis client ready and authenticated","timestamp":"2026-02-26T18:55:11.776Z"}
+{"level":"info","message":"Initializing rate limiters with Redis...","timestamp":"2026-02-26T18:55:11.914Z"}
+{"level":"info","message":"✅ Rate limiters initialized successfully","timestamp":"2026-02-26T18:55:11.921Z"}
+{"level":"info","message":"✅ Filter error suppression enabled","timestamp":"2026-02-26T18:55:14.925Z"}
+{"level":"info","message":"✅ Redis PING: PONG","timestamp":"2026-02-26T18:55:14.938Z"}
+{"level":"info","message":"✅ Redis read/write test: connected","timestamp":"2026-02-26T18:55:15.590Z"}
+{"level":"info","message":"✅ Redis fully operational","timestamp":"2026-02-26T18:55:15.591Z"}
+{"level":"info","message":"✅ Blockchain service initialized on Avalanche Fuji (block 52194461)","timestamp":"2026-02-26T18:55:17.741Z"}
+{"level":"info","message":"✅ Event listeners started","timestamp":"2026-02-26T18:55:17.753Z"}
+{"level":"info","message":"Payment service initialized","timestamp":"2026-02-26T18:55:17.755Z"}
+{"level":"info","message":"Scheduled jobs initialized","timestamp":"2026-02-26T18:55:20.442Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-02-26T18:55:20.786Z"}
+{"level":"info","message":"Environment: production","timestamp":"2026-02-26T18:55:20.788Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2026-02-26T18:55:20.791Z"}
+{"level":"info","message":"Running scheduled payment check","timestamp":"2026-02-26T19:00:00.059Z"}
+{"level":"info","message":"Running pending transaction check","timestamp":"2026-02-26T19:00:00.656Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T19:00:00.674Z"}
+{"level":"info","message":"Queued 0 payments for processing","timestamp":"2026-02-26T19:00:00.983Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T19:05:00.062Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T19:10:00.033Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T19:15:00.054Z"}
+{"level":"info","message":"Running pending transaction check","timestamp":"2026-02-26T19:15:00.063Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T19:20:00.040Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T19:25:00.037Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T19:30:00.050Z"}
+{"level":"info","message":"Running pending transaction check","timestamp":"2026-02-26T19:30:00.054Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T19:35:00.028Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T19:40:00.050Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-01.bchvrp1.mongodb.net","timestamp":"2026-02-26T20:33:44.801Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-26T20:33:47.466Z"}
+{"level":"info","message":"Connecting to Redis Cloud...","timestamp":"2026-02-26T20:33:47.469Z"}
+{"level":"info","message":"Host: redis-13836.c12.us-east-1-4.ec2.cloud.redislabs.com","timestamp":"2026-02-26T20:33:47.472Z"}
+{"level":"info","message":"Port: 13836","timestamp":"2026-02-26T20:33:47.483Z"}
+{"level":"info","message":"Attempting connection WITHOUT TLS...","timestamp":"2026-02-26T20:33:47.496Z"}
+{"level":"info","message":"✅ Socket connected to Redis","timestamp":"2026-02-26T20:33:47.799Z"}
+{"level":"info","message":"✅ Redis client ready and authenticated","timestamp":"2026-02-26T20:33:48.368Z"}
+{"level":"info","message":"Initializing rate limiters with Redis...","timestamp":"2026-02-26T20:33:48.520Z"}
+{"level":"info","message":"✅ Rate limiters initialized successfully","timestamp":"2026-02-26T20:33:48.525Z"}
+{"level":"info","message":"✅ Filter error suppression enabled","timestamp":"2026-02-26T20:33:52.873Z"}
+{"level":"info","message":"✅ Redis PING: PONG","timestamp":"2026-02-26T20:33:52.885Z"}
+{"level":"info","message":"✅ Redis read/write test: connected","timestamp":"2026-02-26T20:33:53.374Z"}
+{"level":"info","message":"✅ Redis fully operational","timestamp":"2026-02-26T20:33:53.375Z"}
+{"level":"info","message":"✅ Blockchain service initialized on Avalanche Fuji (block 52196989)","timestamp":"2026-02-26T20:33:55.783Z"}
+{"level":"info","message":"✅ Event listeners started","timestamp":"2026-02-26T20:33:55.795Z"}
+{"level":"info","message":"Payment service initialized","timestamp":"2026-02-26T20:33:55.796Z"}
+{"level":"info","message":"Scheduled jobs initialized","timestamp":"2026-02-26T20:34:00.483Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-02-26T20:34:00.651Z"}
+{"level":"info","message":"Environment: production","timestamp":"2026-02-26T20:34:00.652Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2026-02-26T20:34:00.652Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T20:35:00.042Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-00.bchvrp1.mongodb.net","timestamp":"2026-02-26T20:39:33.041Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-26T20:39:37.555Z"}
+{"level":"info","message":"Connecting to Redis Cloud...","timestamp":"2026-02-26T20:39:37.559Z"}
+{"level":"info","message":"Host: redis-13836.c12.us-east-1-4.ec2.cloud.redislabs.com","timestamp":"2026-02-26T20:39:37.565Z"}
+{"level":"info","message":"Port: 13836","timestamp":"2026-02-26T20:39:37.569Z"}
+{"level":"info","message":"Attempting connection WITHOUT TLS...","timestamp":"2026-02-26T20:39:37.571Z"}
+{"level":"info","message":"✅ Socket connected to Redis","timestamp":"2026-02-26T20:39:37.987Z"}
+{"level":"info","message":"✅ Redis client ready and authenticated","timestamp":"2026-02-26T20:39:38.648Z"}
+{"level":"info","message":"Initializing rate limiters with Redis...","timestamp":"2026-02-26T20:39:38.736Z"}
+{"level":"info","message":"✅ Rate limiters initialized successfully","timestamp":"2026-02-26T20:39:38.743Z"}
+{"level":"info","message":"✅ Filter error suppression enabled","timestamp":"2026-02-26T20:39:39.729Z"}
+{"level":"info","message":"✅ Redis PING: PONG","timestamp":"2026-02-26T20:39:39.750Z"}
+{"level":"info","message":"✅ Redis read/write test: connected","timestamp":"2026-02-26T20:39:40.488Z"}
+{"level":"info","message":"✅ Redis fully operational","timestamp":"2026-02-26T20:39:40.492Z"}
+{"level":"info","message":"✅ Blockchain service initialized on Avalanche Fuji (block 52197136)","timestamp":"2026-02-26T20:39:42.351Z"}
+{"level":"info","message":"✅ Event listeners started","timestamp":"2026-02-26T20:39:42.365Z"}
+{"level":"info","message":"Payment service initialized","timestamp":"2026-02-26T20:39:42.369Z"}
+{"level":"info","message":"Scheduled jobs initialized","timestamp":"2026-02-26T20:39:42.456Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-02-26T20:39:42.464Z"}
+{"level":"info","message":"Environment: production","timestamp":"2026-02-26T20:39:42.464Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2026-02-26T20:39:42.465Z"}
+{"level":"info","message":"Registered Routes:","timestamp":"2026-02-26T20:39:42.466Z"}
+{"level":"info","message":"- POST /api/v1/auth/register","timestamp":"2026-02-26T20:39:42.466Z"}
+{"level":"info","message":"- POST /api/v1/auth/login","timestamp":"2026-02-26T20:39:42.467Z"}
+{"level":"info","message":"- POST /api/v1/auth/refresh","timestamp":"2026-02-26T20:39:42.468Z"}
+{"level":"info","message":"- POST /api/v1/auth/logout","timestamp":"2026-02-26T20:39:42.469Z"}
+{"level":"info","message":"- GET /api/v1/auth/me","timestamp":"2026-02-26T20:39:42.469Z"}
+{"level":"info","message":"- POST /api/v1/auth/verify-email/:token","timestamp":"2026-02-26T20:39:42.471Z"}
+{"level":"info","message":"- POST /api/v1/auth/forgot-password","timestamp":"2026-02-26T20:39:42.472Z"}
+{"level":"info","message":"- POST /api/v1/auth/reset-password","timestamp":"2026-02-26T20:39:42.473Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T20:40:00.034Z"}
+{"level":"error","message":"Registration error: Cannot read properties of undefined (reading 'generateTokens')","stack":"TypeError: Cannot read properties of undefined (reading 'generateTokens')\n    at register (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\src\\controllers\\auth.controller.js:59:33)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2026-02-26T20:40:10.650Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-00.bchvrp1.mongodb.net","timestamp":"2026-02-26T20:44:29.475Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-26T20:44:35.411Z"}
+{"level":"info","message":"Connecting to Redis Cloud...","timestamp":"2026-02-26T20:44:35.413Z"}
+{"level":"info","message":"Host: redis-13836.c12.us-east-1-4.ec2.cloud.redislabs.com","timestamp":"2026-02-26T20:44:35.415Z"}
+{"level":"info","message":"Port: 13836","timestamp":"2026-02-26T20:44:35.416Z"}
+{"level":"info","message":"Attempting connection WITHOUT TLS...","timestamp":"2026-02-26T20:44:35.417Z"}
+{"level":"info","message":"✅ Socket connected to Redis","timestamp":"2026-02-26T20:44:36.758Z"}
+{"level":"info","message":"✅ Redis client ready and authenticated","timestamp":"2026-02-26T20:44:37.419Z"}
+{"level":"info","message":"Initializing rate limiters with Redis...","timestamp":"2026-02-26T20:44:37.515Z"}
+{"level":"info","message":"✅ Rate limiters initialized successfully","timestamp":"2026-02-26T20:44:37.519Z"}
+{"level":"info","message":"✅ Filter error suppression enabled","timestamp":"2026-02-26T20:44:38.911Z"}
+{"level":"info","message":"✅ Redis PING: PONG","timestamp":"2026-02-26T20:44:38.932Z"}
+{"level":"info","message":"✅ Redis read/write test: connected","timestamp":"2026-02-26T20:44:40.968Z"}
+{"level":"info","message":"✅ Redis fully operational","timestamp":"2026-02-26T20:44:40.969Z"}
+{"level":"info","message":"✅ Blockchain service initialized on Avalanche Fuji (block 52197262)","timestamp":"2026-02-26T20:44:41.652Z"}
+{"level":"info","message":"✅ Event listeners started","timestamp":"2026-02-26T20:44:41.665Z"}
+{"level":"info","message":"Payment service initialized","timestamp":"2026-02-26T20:44:41.669Z"}
+{"level":"info","message":"Scheduled jobs initialized","timestamp":"2026-02-26T20:44:41.744Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-02-26T20:44:41.753Z"}
+{"level":"info","message":"Environment: production","timestamp":"2026-02-26T20:44:41.754Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2026-02-26T20:44:41.755Z"}
+{"level":"info","message":"Registered Routes:","timestamp":"2026-02-26T20:44:41.756Z"}
+{"level":"info","message":"- POST /api/v1/auth/register","timestamp":"2026-02-26T20:44:41.756Z"}
+{"level":"info","message":"- POST /api/v1/auth/login","timestamp":"2026-02-26T20:44:41.757Z"}
+{"level":"info","message":"- POST /api/v1/auth/refresh","timestamp":"2026-02-26T20:44:41.757Z"}
+{"level":"info","message":"- POST /api/v1/auth/logout","timestamp":"2026-02-26T20:44:41.758Z"}
+{"level":"info","message":"- GET /api/v1/auth/me","timestamp":"2026-02-26T20:44:41.758Z"}
+{"level":"info","message":"- POST /api/v1/auth/verify-email/:token","timestamp":"2026-02-26T20:44:41.759Z"}
+{"level":"info","message":"- POST /api/v1/auth/forgot-password","timestamp":"2026-02-26T20:44:41.759Z"}
+{"level":"info","message":"- POST /api/v1/auth/reset-password","timestamp":"2026-02-26T20:44:41.762Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T20:45:00.066Z"}
+{"level":"info","message":"Running pending transaction check","timestamp":"2026-02-26T20:45:00.139Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-01.bchvrp1.mongodb.net","timestamp":"2026-02-26T20:45:28.454Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-26T20:45:30.727Z"}
+{"level":"info","message":"Connecting to Redis Cloud...","timestamp":"2026-02-26T20:45:30.729Z"}
+{"level":"info","message":"Host: redis-13836.c12.us-east-1-4.ec2.cloud.redislabs.com","timestamp":"2026-02-26T20:45:30.730Z"}
+{"level":"info","message":"Port: 13836","timestamp":"2026-02-26T20:45:30.731Z"}
+{"level":"info","message":"Attempting connection WITHOUT TLS...","timestamp":"2026-02-26T20:45:30.732Z"}
+{"level":"info","message":"✅ Socket connected to Redis","timestamp":"2026-02-26T20:45:31.055Z"}
+{"level":"info","message":"✅ Redis client ready and authenticated","timestamp":"2026-02-26T20:45:31.770Z"}
+{"level":"info","message":"Initializing rate limiters with Redis...","timestamp":"2026-02-26T20:45:31.783Z"}
+{"level":"info","message":"✅ Rate limiters initialized successfully","timestamp":"2026-02-26T20:45:31.788Z"}
+{"level":"info","message":"✅ Filter error suppression enabled","timestamp":"2026-02-26T20:45:31.992Z"}
+{"level":"info","message":"✅ Redis PING: PONG","timestamp":"2026-02-26T20:45:32.100Z"}
+{"level":"info","message":"✅ Redis read/write test: connected","timestamp":"2026-02-26T20:45:32.814Z"}
+{"level":"info","message":"✅ Redis fully operational","timestamp":"2026-02-26T20:45:32.814Z"}
+{"level":"info","message":"✅ Blockchain service initialized on Avalanche Fuji (block 52197280)","timestamp":"2026-02-26T20:45:32.963Z"}
+{"level":"info","message":"✅ Event listeners started","timestamp":"2026-02-26T20:45:32.975Z"}
+{"level":"info","message":"Payment service initialized","timestamp":"2026-02-26T20:45:32.977Z"}
+{"level":"info","message":"Scheduled jobs initialized","timestamp":"2026-02-26T20:45:33.104Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-02-26T20:45:33.155Z"}
+{"level":"info","message":"Environment: production","timestamp":"2026-02-26T20:45:33.157Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2026-02-26T20:45:33.158Z"}
+{"level":"info","message":"Registered Routes:","timestamp":"2026-02-26T20:45:33.159Z"}
+{"level":"info","message":"- POST /api/v1/auth/register","timestamp":"2026-02-26T20:45:33.160Z"}
+{"level":"info","message":"- POST /api/v1/auth/login","timestamp":"2026-02-26T20:45:33.163Z"}
+{"level":"info","message":"- POST /api/v1/auth/refresh","timestamp":"2026-02-26T20:45:33.164Z"}
+{"level":"info","message":"- POST /api/v1/auth/logout","timestamp":"2026-02-26T20:45:33.165Z"}
+{"level":"info","message":"- GET /api/v1/auth/me","timestamp":"2026-02-26T20:45:33.165Z"}
+{"level":"info","message":"- POST /api/v1/auth/verify-email/:token","timestamp":"2026-02-26T20:45:33.166Z"}
+{"level":"info","message":"- POST /api/v1/auth/forgot-password","timestamp":"2026-02-26T20:45:33.167Z"}
+{"level":"info","message":"- POST /api/v1/auth/reset-password","timestamp":"2026-02-26T20:45:33.168Z"}
+{"level":"info","message":"Merchant profile created for user: emiliachris74@gmail.com","timestamp":"2026-02-26T20:46:17.407Z"}
+{"level":"error","message":"❌ Registration error: Cannot read properties of undefined (reading 'generateTokens')","name":"TypeError","stack":"TypeError: Cannot read properties of undefined (reading 'generateTokens')\n    at register (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\src\\controllers\\auth.controller.js:88:33)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2026-02-26T20:46:17.410Z"}
+{"body":"{\r\n  \"email\": \"emiliachris74@gmail.com\",\r\n  \"password\": \"Password123!\",\r\n}","expose":true,"level":"error","message":"Unhandled error: Expected double-quoted property name in JSON at position 73 (line 4 column 1)","stack":"SyntaxError: Expected double-quoted property name in JSON at position 73 (line 4 column 1)\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)\n    at invokeCallback (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:524:28)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","status":400,"statusCode":400,"timestamp":"2026-02-26T20:47:03.251Z","type":"entity.parse.failed"}
+{"level":"error","message":"❌ Login error: Cannot read properties of undefined (reading 'generateTokens')","stack":"TypeError: Cannot read properties of undefined (reading 'generateTokens')\n    at login (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\src\\controllers\\auth.controller.js:160:33)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2026-02-26T20:47:46.017Z"}
+{"level":"info","message":"Merchant profile created for user: emiliachris724@gmail.com","timestamp":"2026-02-26T20:48:22.211Z"}
+{"level":"error","message":"❌ Registration error: Cannot read properties of undefined (reading 'generateTokens')","name":"TypeError","stack":"TypeError: Cannot read properties of undefined (reading 'generateTokens')\n    at register (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\src\\controllers\\auth.controller.js:88:33)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2026-02-26T20:48:22.212Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T20:50:00.067Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-01.bchvrp1.mongodb.net","timestamp":"2026-02-26T20:52:07.331Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-26T20:52:09.754Z"}
+{"level":"info","message":"Connecting to Redis Cloud...","timestamp":"2026-02-26T20:52:09.758Z"}
+{"level":"info","message":"Host: redis-13836.c12.us-east-1-4.ec2.cloud.redislabs.com","timestamp":"2026-02-26T20:52:09.763Z"}
+{"level":"info","message":"Port: 13836","timestamp":"2026-02-26T20:52:09.767Z"}
+{"level":"info","message":"Attempting connection WITHOUT TLS...","timestamp":"2026-02-26T20:52:09.771Z"}
+{"level":"info","message":"✅ Socket connected to Redis","timestamp":"2026-02-26T20:52:10.065Z"}
+{"level":"info","message":"✅ Redis client ready and authenticated","timestamp":"2026-02-26T20:52:11.415Z"}
+{"level":"info","message":"Initializing rate limiters with Redis...","timestamp":"2026-02-26T20:52:11.434Z"}
+{"level":"info","message":"✅ Rate limiters initialized successfully","timestamp":"2026-02-26T20:52:11.439Z"}
+{"level":"info","message":"✅ Filter error suppression enabled","timestamp":"2026-02-26T20:52:11.789Z"}
+{"level":"info","message":"✅ Redis PING: PONG","timestamp":"2026-02-26T20:52:11.865Z"}
+{"level":"info","message":"✅ Redis read/write test: connected","timestamp":"2026-02-26T20:52:12.471Z"}
+{"level":"info","message":"✅ Redis fully operational","timestamp":"2026-02-26T20:52:12.473Z"}
+{"level":"info","message":"✅ Blockchain service initialized on Avalanche Fuji (block 52197467)","timestamp":"2026-02-26T20:52:13.691Z"}
+{"level":"info","message":"✅ Event listeners started","timestamp":"2026-02-26T20:52:13.708Z"}
+{"level":"info","message":"Payment service initialized","timestamp":"2026-02-26T20:52:13.713Z"}
+{"level":"info","message":"Scheduled jobs initialized","timestamp":"2026-02-26T20:52:13.819Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-02-26T20:52:13.865Z"}
+{"level":"info","message":"Environment: production","timestamp":"2026-02-26T20:52:13.867Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2026-02-26T20:52:13.867Z"}
+{"level":"info","message":"Registered Routes:","timestamp":"2026-02-26T20:52:13.868Z"}
+{"level":"info","message":"- POST /api/v1/auth/register","timestamp":"2026-02-26T20:52:13.868Z"}
+{"level":"info","message":"- POST /api/v1/auth/login","timestamp":"2026-02-26T20:52:13.869Z"}
+{"level":"info","message":"- POST /api/v1/auth/refresh","timestamp":"2026-02-26T20:52:13.869Z"}
+{"level":"info","message":"- POST /api/v1/auth/logout","timestamp":"2026-02-26T20:52:13.870Z"}
+{"level":"info","message":"- GET /api/v1/auth/me","timestamp":"2026-02-26T20:52:13.870Z"}
+{"level":"info","message":"- POST /api/v1/auth/verify-email/:token","timestamp":"2026-02-26T20:52:13.871Z"}
+{"level":"info","message":"- POST /api/v1/auth/forgot-password","timestamp":"2026-02-26T20:52:13.871Z"}
+{"level":"info","message":"- POST /api/v1/auth/reset-password","timestamp":"2026-02-26T20:52:13.873Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-00.bchvrp1.mongodb.net","timestamp":"2026-02-26T20:52:26.879Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-26T20:52:31.504Z"}
+{"level":"info","message":"Connecting to Redis Cloud...","timestamp":"2026-02-26T20:52:31.508Z"}
+{"level":"info","message":"Host: redis-13836.c12.us-east-1-4.ec2.cloud.redislabs.com","timestamp":"2026-02-26T20:52:31.510Z"}
+{"level":"info","message":"Port: 13836","timestamp":"2026-02-26T20:52:31.513Z"}
+{"level":"info","message":"Attempting connection WITHOUT TLS...","timestamp":"2026-02-26T20:52:31.517Z"}
+{"level":"info","message":"✅ Socket connected to Redis","timestamp":"2026-02-26T20:52:31.863Z"}
+{"level":"info","message":"✅ Redis client ready and authenticated","timestamp":"2026-02-26T20:52:33.910Z"}
+{"level":"info","message":"Initializing rate limiters with Redis...","timestamp":"2026-02-26T20:52:33.920Z"}
+{"level":"info","message":"✅ Rate limiters initialized successfully","timestamp":"2026-02-26T20:52:33.924Z"}
+{"level":"info","message":"✅ Filter error suppression enabled","timestamp":"2026-02-26T20:52:34.080Z"}
+{"level":"info","message":"✅ Redis PING: PONG","timestamp":"2026-02-26T20:52:34.269Z"}
+{"level":"info","message":"✅ Redis read/write test: connected","timestamp":"2026-02-26T20:52:34.945Z"}
+{"level":"info","message":"✅ Redis fully operational","timestamp":"2026-02-26T20:52:34.946Z"}
+{"level":"info","message":"✅ Blockchain service initialized on Avalanche Fuji (block 52197478)","timestamp":"2026-02-26T20:52:36.215Z"}
+{"level":"info","message":"✅ Event listeners started","timestamp":"2026-02-26T20:52:36.243Z"}
+{"level":"info","message":"Payment service initialized","timestamp":"2026-02-26T20:52:36.244Z"}
+{"level":"info","message":"Scheduled jobs initialized","timestamp":"2026-02-26T20:52:36.310Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-02-26T20:52:36.319Z"}
+{"level":"info","message":"Environment: production","timestamp":"2026-02-26T20:52:36.320Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2026-02-26T20:52:36.321Z"}
+{"level":"info","message":"Registered Routes:","timestamp":"2026-02-26T20:52:36.321Z"}
+{"level":"info","message":"- POST /api/v1/auth/register","timestamp":"2026-02-26T20:52:36.322Z"}
+{"level":"info","message":"- POST /api/v1/auth/login","timestamp":"2026-02-26T20:52:36.322Z"}
+{"level":"info","message":"- POST /api/v1/auth/refresh","timestamp":"2026-02-26T20:52:36.322Z"}
+{"level":"info","message":"- POST /api/v1/auth/logout","timestamp":"2026-02-26T20:52:36.323Z"}
+{"level":"info","message":"- GET /api/v1/auth/me","timestamp":"2026-02-26T20:52:36.323Z"}
+{"level":"info","message":"- POST /api/v1/auth/verify-email/:token","timestamp":"2026-02-26T20:52:36.324Z"}
+{"level":"info","message":"- POST /api/v1/auth/forgot-password","timestamp":"2026-02-26T20:52:36.324Z"}
+{"level":"info","message":"- POST /api/v1/auth/reset-password","timestamp":"2026-02-26T20:52:36.325Z"}
+{"level":"info","message":"Merchant profile created for user: emiliachris7224@gmail.com","timestamp":"2026-02-26T20:52:50.633Z"}
+{"level":"error","message":"❌ Registration error: Cannot read properties of undefined (reading 'generateTokens')","name":"TypeError","timestamp":"2026-02-26T20:52:50.635Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T20:55:00.206Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-00.bchvrp1.mongodb.net","timestamp":"2026-02-26T20:55:16.123Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-26T20:55:20.419Z"}
+{"level":"info","message":"Connecting to Redis Cloud...","timestamp":"2026-02-26T20:55:20.420Z"}
+{"level":"info","message":"Host: redis-13836.c12.us-east-1-4.ec2.cloud.redislabs.com","timestamp":"2026-02-26T20:55:20.421Z"}
+{"level":"info","message":"Port: 13836","timestamp":"2026-02-26T20:55:20.422Z"}
+{"level":"info","message":"Attempting connection WITHOUT TLS...","timestamp":"2026-02-26T20:55:20.423Z"}
+{"level":"info","message":"✅ Socket connected to Redis","timestamp":"2026-02-26T20:55:20.744Z"}
+{"level":"info","message":"✅ Redis client ready and authenticated","timestamp":"2026-02-26T20:55:21.404Z"}
+{"level":"info","message":"Initializing rate limiters with Redis...","timestamp":"2026-02-26T20:55:21.420Z"}
+{"level":"info","message":"✅ Rate limiters initialized successfully","timestamp":"2026-02-26T20:55:21.432Z"}
+{"level":"info","message":"✅ Filter error suppression enabled","timestamp":"2026-02-26T20:55:21.675Z"}
+{"level":"info","message":"✅ Redis PING: PONG","timestamp":"2026-02-26T20:55:21.707Z"}
+{"level":"info","message":"✅ Redis read/write test: connected","timestamp":"2026-02-26T20:55:22.394Z"}
+{"level":"info","message":"✅ Redis fully operational","timestamp":"2026-02-26T20:55:22.395Z"}
+{"level":"info","message":"✅ Blockchain service initialized on Avalanche Fuji (block 52197544)","timestamp":"2026-02-26T20:55:23.048Z"}
+{"level":"info","message":"✅ Event listeners started","timestamp":"2026-02-26T20:55:23.060Z"}
+{"level":"info","message":"Payment service initialized","timestamp":"2026-02-26T20:55:23.061Z"}
+{"level":"info","message":"Scheduled jobs initialized","timestamp":"2026-02-26T20:55:23.155Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-02-26T20:55:23.163Z"}
+{"level":"info","message":"Environment: production","timestamp":"2026-02-26T20:55:23.163Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2026-02-26T20:55:23.168Z"}
+{"level":"info","message":"Registered Routes:","timestamp":"2026-02-26T20:55:23.170Z"}
+{"level":"info","message":"- POST /api/v1/auth/register","timestamp":"2026-02-26T20:55:23.174Z"}
+{"level":"info","message":"- POST /api/v1/auth/login","timestamp":"2026-02-26T20:55:23.175Z"}
+{"level":"info","message":"- POST /api/v1/auth/refresh","timestamp":"2026-02-26T20:55:23.176Z"}
+{"level":"info","message":"- POST /api/v1/auth/logout","timestamp":"2026-02-26T20:55:23.176Z"}
+{"level":"info","message":"- GET /api/v1/auth/me","timestamp":"2026-02-26T20:55:23.177Z"}
+{"level":"info","message":"- POST /api/v1/auth/verify-email/:token","timestamp":"2026-02-26T20:55:23.178Z"}
+{"level":"info","message":"- POST /api/v1/auth/forgot-password","timestamp":"2026-02-26T20:55:23.178Z"}
+{"level":"info","message":"- POST /api/v1/auth/reset-password","timestamp":"2026-02-26T20:55:23.179Z"}
+{"level":"info","message":"Merchant profile created for user: emiliachris734@gmail.com","timestamp":"2026-02-26T20:55:50.335Z"}
+{"level":"info","message":"✅ User registered successfully: emiliachris734@gmail.com","timestamp":"2026-02-26T20:55:50.677Z"}
+{"level":"info","message":"✅ User logged in: emiliachris734@gmail.com","timestamp":"2026-02-26T20:59:07.919Z"}
+{"level":"info","message":"Running pending transaction check","timestamp":"2026-02-26T21:00:00.073Z"}
+{"level":"info","message":"Running scheduled payment check","timestamp":"2026-02-26T21:00:00.166Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T21:00:00.171Z"}
+{"level":"info","message":"Queued 0 payments for processing","timestamp":"2026-02-26T21:00:00.403Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T21:05:00.036Z"}
+{"level":"info","message":"Merchant profile created for user: testuser2@example.com","timestamp":"2026-02-26T21:06:27.626Z"}
+{"level":"info","message":"✅ User registered successfully: testuser2@example.com","timestamp":"2026-02-26T21:06:27.901Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T21:10:00.036Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-00.bchvrp1.mongodb.net","timestamp":"2026-02-26T21:14:46.842Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-26T21:14:50.264Z"}
+{"level":"info","message":"Connecting to Redis Cloud...","timestamp":"2026-02-26T21:14:50.266Z"}
+{"level":"info","message":"Host: redis-13836.c12.us-east-1-4.ec2.cloud.redislabs.com","timestamp":"2026-02-26T21:14:50.267Z"}
+{"level":"info","message":"Port: 13836","timestamp":"2026-02-26T21:14:50.268Z"}
+{"level":"info","message":"Attempting connection WITHOUT TLS...","timestamp":"2026-02-26T21:14:50.270Z"}
+{"level":"info","message":"✅ Socket connected to Redis","timestamp":"2026-02-26T21:14:50.493Z"}
+{"level":"info","message":"✅ Redis client ready and authenticated","timestamp":"2026-02-26T21:14:50.947Z"}
+{"level":"info","message":"Initializing rate limiters with Redis...","timestamp":"2026-02-26T21:14:51.395Z"}
+{"level":"info","message":"✅ Rate limiters initialized successfully","timestamp":"2026-02-26T21:14:51.399Z"}
+{"level":"info","message":"✅ Filter error suppression enabled","timestamp":"2026-02-26T21:14:55.791Z"}
+{"level":"info","message":"✅ Redis PING: PONG","timestamp":"2026-02-26T21:14:55.803Z"}
+{"level":"info","message":"✅ Redis read/write test: connected","timestamp":"2026-02-26T21:14:56.634Z"}
+{"level":"info","message":"✅ Redis fully operational","timestamp":"2026-02-26T21:14:56.637Z"}
+{"level":"info","message":"✅ Blockchain service initialized on Avalanche Fuji (block 52198058)","timestamp":"2026-02-26T21:14:57.858Z"}
+{"level":"info","message":"✅ Event listeners started","timestamp":"2026-02-26T21:14:57.872Z"}
+{"level":"info","message":"Payment service initialized","timestamp":"2026-02-26T21:14:57.875Z"}
+{"level":"info","message":"Scheduled jobs initialized","timestamp":"2026-02-26T21:14:57.948Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-02-26T21:14:57.955Z"}
+{"level":"info","message":"Environment: production","timestamp":"2026-02-26T21:14:57.956Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2026-02-26T21:14:57.957Z"}
+{"level":"info","message":"Registered Routes:","timestamp":"2026-02-26T21:14:57.958Z"}
+{"level":"info","message":"- POST /api/v1/auth/register","timestamp":"2026-02-26T21:14:57.958Z"}
+{"level":"info","message":"- POST /api/v1/auth/login","timestamp":"2026-02-26T21:14:57.959Z"}
+{"level":"info","message":"- POST /api/v1/auth/refresh","timestamp":"2026-02-26T21:14:57.959Z"}
+{"level":"info","message":"- POST /api/v1/auth/logout","timestamp":"2026-02-26T21:14:57.960Z"}
+{"level":"info","message":"- GET /api/v1/auth/me","timestamp":"2026-02-26T21:14:57.960Z"}
+{"level":"info","message":"- POST /api/v1/auth/verify-email/:token","timestamp":"2026-02-26T21:14:57.961Z"}
+{"level":"info","message":"- POST /api/v1/auth/forgot-password","timestamp":"2026-02-26T21:14:57.961Z"}
+{"level":"info","message":"- POST /api/v1/auth/reset-password","timestamp":"2026-02-26T21:14:57.962Z"}
+{"level":"info","message":"Running pending transaction check","timestamp":"2026-02-26T21:15:00.045Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T21:15:00.059Z"}
+{"level":"info","message":"Merchant profile created for user: testuser1@example.com","timestamp":"2026-02-26T21:15:33.906Z"}
+{"level":"info","message":"✅ User registered successfully: testuser1@example.com","timestamp":"2026-02-26T21:15:34.321Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T21:20:00.074Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T21:25:00.039Z"}
+{"level":"info","message":"Received shutdown signal, closing connections...","timestamp":"2026-02-26T21:26:45.688Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-02.bchvrp1.mongodb.net","timestamp":"2026-02-26T21:27:14.385Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-26T21:27:16.736Z"}
+{"level":"info","message":"Connecting to Redis Cloud...","timestamp":"2026-02-26T21:27:16.739Z"}
+{"level":"info","message":"Host: redis-13836.c12.us-east-1-4.ec2.cloud.redislabs.com","timestamp":"2026-02-26T21:27:16.740Z"}
+{"level":"info","message":"Port: 13836","timestamp":"2026-02-26T21:27:16.741Z"}
+{"level":"info","message":"Attempting connection WITHOUT TLS...","timestamp":"2026-02-26T21:27:16.741Z"}
+{"level":"info","message":"✅ Socket connected to Redis","timestamp":"2026-02-26T21:27:16.991Z"}
+{"level":"info","message":"✅ Redis client ready and authenticated","timestamp":"2026-02-26T21:27:17.413Z"}
+{"level":"info","message":"Initializing rate limiters with Redis...","timestamp":"2026-02-26T21:27:17.425Z"}
+{"level":"info","message":"✅ Rate limiters initialized successfully","timestamp":"2026-02-26T21:27:17.431Z"}
+{"level":"info","message":"✅ Filter error suppression enabled","timestamp":"2026-02-26T21:27:17.658Z"}
+{"level":"info","message":"✅ Redis PING: PONG","timestamp":"2026-02-26T21:27:17.680Z"}
+{"level":"info","message":"✅ Redis read/write test: connected","timestamp":"2026-02-26T21:27:18.251Z"}
+{"level":"info","message":"✅ Redis fully operational","timestamp":"2026-02-26T21:27:18.252Z"}
+{"level":"info","message":"✅ Blockchain service initialized on Avalanche Fuji (block 52198385)","timestamp":"2026-02-26T21:27:25.346Z"}
+{"level":"info","message":"✅ Event listeners started","timestamp":"2026-02-26T21:27:25.360Z"}
+{"level":"info","message":"Payment service initialized","timestamp":"2026-02-26T21:27:25.362Z"}
+{"level":"info","message":"Scheduled jobs initialized","timestamp":"2026-02-26T21:27:25.435Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-02-26T21:27:25.444Z"}
+{"level":"info","message":"Environment: production","timestamp":"2026-02-26T21:27:25.445Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2026-02-26T21:27:25.445Z"}
+{"level":"info","message":"Registered Routes:","timestamp":"2026-02-26T21:27:25.446Z"}
+{"level":"info","message":"- POST /api/v1/auth/register","timestamp":"2026-02-26T21:27:25.447Z"}
+{"level":"info","message":"- POST /api/v1/auth/login","timestamp":"2026-02-26T21:27:25.447Z"}
+{"level":"info","message":"- POST /api/v1/auth/refresh","timestamp":"2026-02-26T21:27:25.447Z"}
+{"level":"info","message":"- POST /api/v1/auth/logout","timestamp":"2026-02-26T21:27:25.448Z"}
+{"level":"info","message":"- GET /api/v1/auth/me","timestamp":"2026-02-26T21:27:25.448Z"}
+{"level":"info","message":"- POST /api/v1/auth/verify-email/:token","timestamp":"2026-02-26T21:27:25.449Z"}
+{"level":"info","message":"- POST /api/v1/auth/forgot-password","timestamp":"2026-02-26T21:27:25.449Z"}
+{"level":"info","message":"- POST /api/v1/auth/reset-password","timestamp":"2026-02-26T21:27:25.450Z"}
+{"level":"info","message":"Running pending transaction check","timestamp":"2026-02-26T21:30:00.079Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T21:30:00.110Z"}
+{"level":"info","message":"✅ User logged in: testuser1@example.com","timestamp":"2026-02-26T21:32:58.746Z"}
+{"level":"error","message":"Get merchant plans error: Plan is not defined","stack":"ReferenceError: Plan is not defined\n    at getPlans (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\src\\controllers\\merchant.controller.js:224:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2026-02-26T21:34:45.174Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T21:35:00.050Z"}
+{"level":"error","message":"Get revenue report error: Cannot read properties of undefined (reading 'getGroupByExpression')","stack":"TypeError: Cannot read properties of undefined (reading 'getGroupByExpression')\n    at getRevenueReport (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\src\\controllers\\merchant.controller.js:295:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2026-02-26T21:35:31.273Z"}
+{"level":"error","message":"Get merchant subscriptions error: Subscription is not defined","stack":"ReferenceError: Subscription is not defined\n    at getSubscriptions (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\src\\controllers\\merchant.controller.js:249:29)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2026-02-26T21:36:26.999Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-01.bchvrp1.mongodb.net","timestamp":"2026-02-26T21:39:50.239Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-26T21:39:52.617Z"}
+{"level":"info","message":"Connecting to Redis Cloud...","timestamp":"2026-02-26T21:39:52.619Z"}
+{"level":"info","message":"Host: redis-13836.c12.us-east-1-4.ec2.cloud.redislabs.com","timestamp":"2026-02-26T21:39:52.620Z"}
+{"level":"info","message":"Port: 13836","timestamp":"2026-02-26T21:39:52.621Z"}
+{"level":"info","message":"Attempting connection WITHOUT TLS...","timestamp":"2026-02-26T21:39:52.621Z"}
+{"level":"info","message":"✅ Socket connected to Redis","timestamp":"2026-02-26T21:39:52.870Z"}
+{"level":"info","message":"✅ Redis client ready and authenticated","timestamp":"2026-02-26T21:39:53.458Z"}
+{"level":"info","message":"Initializing rate limiters with Redis...","timestamp":"2026-02-26T21:39:53.518Z"}
+{"level":"info","message":"✅ Rate limiters initialized successfully","timestamp":"2026-02-26T21:39:53.522Z"}
+{"level":"info","message":"✅ Filter error suppression enabled","timestamp":"2026-02-26T21:39:54.250Z"}
+{"level":"info","message":"✅ Redis PING: PONG","timestamp":"2026-02-26T21:39:54.258Z"}
+{"level":"info","message":"✅ Redis read/write test: connected","timestamp":"2026-02-26T21:39:54.821Z"}
+{"level":"info","message":"✅ Redis fully operational","timestamp":"2026-02-26T21:39:54.822Z"}
+{"level":"info","message":"✅ Blockchain service initialized on Avalanche Fuji (block 52198706)","timestamp":"2026-02-26T21:39:56.201Z"}
+{"level":"info","message":"✅ Event listeners started","timestamp":"2026-02-26T21:39:56.213Z"}
+{"level":"info","message":"Payment service initialized","timestamp":"2026-02-26T21:39:56.215Z"}
+{"level":"info","message":"Scheduled jobs initialized","timestamp":"2026-02-26T21:39:56.302Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-02-26T21:39:56.309Z"}
+{"level":"info","message":"Environment: production","timestamp":"2026-02-26T21:39:56.313Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2026-02-26T21:39:56.314Z"}
+{"level":"info","message":"Registered Routes:","timestamp":"2026-02-26T21:39:56.315Z"}
+{"level":"info","message":"- POST /api/v1/auth/register","timestamp":"2026-02-26T21:39:56.315Z"}
+{"level":"info","message":"- POST /api/v1/auth/login","timestamp":"2026-02-26T21:39:56.315Z"}
+{"level":"info","message":"- POST /api/v1/auth/refresh","timestamp":"2026-02-26T21:39:56.316Z"}
+{"level":"info","message":"- POST /api/v1/auth/logout","timestamp":"2026-02-26T21:39:56.317Z"}
+{"level":"info","message":"- GET /api/v1/auth/me","timestamp":"2026-02-26T21:39:56.317Z"}
+{"level":"info","message":"- POST /api/v1/auth/verify-email/:token","timestamp":"2026-02-26T21:39:56.318Z"}
+{"level":"info","message":"- POST /api/v1/auth/forgot-password","timestamp":"2026-02-26T21:39:56.318Z"}
+{"level":"info","message":"- POST /api/v1/auth/reset-password","timestamp":"2026-02-26T21:39:56.319Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T21:40:00.017Z"}
+{"level":"info","message":"MongoDB Connected: ac-7kh4akq-shard-00-01.bchvrp1.mongodb.net","timestamp":"2026-02-26T21:40:16.667Z"}
+{"level":"info","message":"Database indexes created","timestamp":"2026-02-26T21:40:19.025Z"}
+{"level":"info","message":"Connecting to Redis Cloud...","timestamp":"2026-02-26T21:40:19.028Z"}
+{"level":"info","message":"Host: redis-13836.c12.us-east-1-4.ec2.cloud.redislabs.com","timestamp":"2026-02-26T21:40:19.031Z"}
+{"level":"info","message":"Port: 13836","timestamp":"2026-02-26T21:40:19.040Z"}
+{"level":"info","message":"Attempting connection WITHOUT TLS...","timestamp":"2026-02-26T21:40:19.041Z"}
+{"level":"info","message":"✅ Socket connected to Redis","timestamp":"2026-02-26T21:40:19.350Z"}
+{"level":"info","message":"✅ Redis client ready and authenticated","timestamp":"2026-02-26T21:40:20.005Z"}
+{"level":"info","message":"Initializing rate limiters with Redis...","timestamp":"2026-02-26T21:40:20.026Z"}
+{"level":"info","message":"✅ Rate limiters initialized successfully","timestamp":"2026-02-26T21:40:20.047Z"}
+{"level":"info","message":"✅ Filter error suppression enabled","timestamp":"2026-02-26T21:40:20.346Z"}
+{"level":"info","message":"✅ Redis PING: PONG","timestamp":"2026-02-26T21:40:20.375Z"}
+{"level":"info","message":"✅ Redis read/write test: connected","timestamp":"2026-02-26T21:40:23.778Z"}
+{"level":"info","message":"✅ Redis fully operational","timestamp":"2026-02-26T21:40:23.779Z"}
+{"level":"info","message":"✅ Blockchain service initialized on Avalanche Fuji (block 52198716)","timestamp":"2026-02-26T21:40:24.285Z"}
+{"level":"info","message":"✅ Event listeners started","timestamp":"2026-02-26T21:40:24.304Z"}
+{"level":"info","message":"Payment service initialized","timestamp":"2026-02-26T21:40:24.309Z"}
+{"level":"info","message":"Scheduled jobs initialized","timestamp":"2026-02-26T21:40:24.434Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-02-26T21:40:24.453Z"}
+{"level":"info","message":"Environment: production","timestamp":"2026-02-26T21:40:24.454Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2026-02-26T21:40:24.455Z"}
+{"level":"info","message":"Registered Routes:","timestamp":"2026-02-26T21:40:24.456Z"}
+{"level":"info","message":"- POST /api/v1/auth/register","timestamp":"2026-02-26T21:40:24.457Z"}
+{"level":"info","message":"- POST /api/v1/auth/login","timestamp":"2026-02-26T21:40:24.458Z"}
+{"level":"info","message":"- POST /api/v1/auth/refresh","timestamp":"2026-02-26T21:40:24.459Z"}
+{"level":"info","message":"- POST /api/v1/auth/logout","timestamp":"2026-02-26T21:40:24.464Z"}
+{"level":"info","message":"- GET /api/v1/auth/me","timestamp":"2026-02-26T21:40:24.469Z"}
+{"level":"info","message":"- POST /api/v1/auth/verify-email/:token","timestamp":"2026-02-26T21:40:24.470Z"}
+{"level":"info","message":"- POST /api/v1/auth/forgot-password","timestamp":"2026-02-26T21:40:24.470Z"}
+{"level":"info","message":"- POST /api/v1/auth/reset-password","timestamp":"2026-02-26T21:40:24.471Z"}
+{"code":"UNSUPPORTED_OPERATION","level":"error","message":"Create plan error: contract runner does not support sending transactions (operation=\"sendTransaction\", code=UNSUPPORTED_OPERATION, version=6.16.0)","operation":"sendTransaction","shortMessage":"contract runner does not support sending transactions","stack":"Error: contract runner does not support sending transactions (operation=\"sendTransaction\", code=UNSUPPORTED_OPERATION, version=6.16.0)\n    at makeError (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\node_modules\\ethers\\lib.commonjs\\utils\\errors.js:137:21)\n    at assert (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\node_modules\\ethers\\lib.commonjs\\utils\\errors.js:157:15)\n    at send (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\node_modules\\ethers\\lib.commonjs\\contract\\contract.js:227:31)\n    at Proxy.createPlan (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\node_modules\\ethers\\lib.commonjs\\contract\\contract.js:261:22)\n    at createPlan (C:\\Users\\User\\OneDrive\\Desktop\\flowpay-backend\\src\\controllers\\plan.controller.js:25:51)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2026-02-26T21:44:53.460Z"}
+{"level":"info","message":"Running pending transaction check","timestamp":"2026-02-26T21:45:00.078Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-26T21:45:00.085Z"}
+{"level":"info","message":"Received shutdown signal, closing connections...","timestamp":"2026-02-26T21:49:24.507Z"}

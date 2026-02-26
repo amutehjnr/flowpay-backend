@@ -1,0 +1,40 @@
+{"level":"error","message":"Redis client error:","timestamp":"2026-02-25T08:08:03.574Z"}
+{"level":"warn","message":"Redis client connection closed","timestamp":"2026-02-25T08:08:06.979Z"}
+{"level":"error","message":"Redis client error:","timestamp":"2026-02-25T08:08:14.785Z"}
+{"level":"warn","message":"Redis client connection closed","timestamp":"2026-02-25T08:08:14.825Z"}
+{"level":"error","message":"Redis client error:","timestamp":"2026-02-25T08:08:15.068Z"}
+{"level":"warn","message":"Redis client connection closed","timestamp":"2026-02-25T08:08:15.070Z"}
+{"level":"error","message":"Redis client error:","timestamp":"2026-02-25T08:08:15.371Z"}
+{"level":"warn","message":"Redis client connection closed","timestamp":"2026-02-25T08:08:15.374Z"}
+{"level":"error","message":"Redis client error:","timestamp":"2026-02-25T08:08:15.796Z"}
+{"level":"warn","message":"Redis client connection closed","timestamp":"2026-02-25T08:08:15.797Z"}
+{"level":"error","message":"Redis client error:","timestamp":"2026-02-25T08:08:16.858Z"}
+{"level":"warn","message":"Redis client connection closed","timestamp":"2026-02-25T08:08:16.935Z"}
+{"level":"info","message":"✅ Socket connected to Redis","timestamp":"2026-02-25T08:08:26.763Z"}
+{"level":"info","message":"✅ Redis client ready and authenticated","timestamp":"2026-02-25T08:08:27.297Z"}
+{"level":"info","message":"✅ Redis PING: PONG","timestamp":"2026-02-25T08:08:27.638Z"}
+{"level":"info","message":"✅ Redis read/write test: connected","timestamp":"2026-02-25T08:08:28.429Z"}
+{"level":"info","message":"✅ Redis fully operational","timestamp":"2026-02-25T08:08:28.430Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-25T08:10:00.089Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-25T08:15:00.126Z"}
+{"level":"info","message":"Running pending transaction check","timestamp":"2026-02-25T08:15:00.132Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-25T08:20:00.319Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-25T08:25:00.069Z"}
+{"level":"info","message":"Running pending transaction check","timestamp":"2026-02-25T08:30:00.064Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-25T08:30:00.068Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-25T08:35:00.304Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-25T08:40:00.186Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-25T08:45:00.146Z"}
+{"level":"info","message":"Running pending transaction check","timestamp":"2026-02-25T08:45:00.166Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-25T08:50:00.037Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-25T08:55:00.143Z"}
+{"level":"info","message":"Running pending transaction check","timestamp":"2026-02-25T09:00:00.146Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-25T09:00:00.179Z"}
+{"level":"info","message":"Running scheduled payment check","timestamp":"2026-02-25T09:00:00.182Z"}
+{"level":"info","message":"Queued 0 payments for processing","timestamp":"2026-02-25T09:00:00.572Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-25T09:05:00.027Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-25T09:10:00.135Z"}
+{"level":"info","message":"Running pending transaction check","timestamp":"2026-02-25T09:15:00.079Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-25T09:15:00.095Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-25T09:20:00.075Z"}
+{"level":"info","message":"Running webhook retry check","timestamp":"2026-02-25T09:25:00.033Z"}
