@@ -18,6 +18,10 @@ const options = {
         description: 'Development server'
       },
       {
+        url: 'https://flowpay-backend-a97z.onrender.com/api/v1',
+        description: 'Production server (Render)'
+      },
+      {
         url: 'https://api.flowpay.io/api/v1',
         description: 'Production server'
       }

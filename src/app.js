@@ -40,7 +40,7 @@ app.use(express.urlencoded({ extended: true, limit: '10mb' }));
 
 // CORS
 app.use(cors({
-  origin: process.env.ALLOWED_ORIGINS?.split(',') || ['http://localhost:3000'],
+  origin: process.env.ALLOWED_ORIGINS?.split(',') || ['flowpay-backend-a97z.onrender.com'],
   credentials: true
 }));
 
@@ -124,7 +124,7 @@ const startServer = async () => {
     app.listen(PORT, () => {
       logger.info(`Server running on port ${PORT}`);
       logger.info(`Environment: ${process.env.NODE_ENV}`);
-      logger.info(`API Documentation: http://localhost:${PORT}/api-docs`);
+      logger.info(`API Documentation: flowpay-backend-a97z.onrender.com/api-docs`);
       
       // Log all registered routes for debugging
       logger.info('Registered Routes:');
