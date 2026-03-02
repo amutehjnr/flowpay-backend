@@ -14,6 +14,15 @@ const scheduledJobs = require('./jobs/scheduled.jobs');
 const blockchainService = require('./services/blockchain.service');
 const paymentService = require('./services/payment.service');
 
+const allowedOrigins = process.env.ALLOWED_ORIGINS
+  ? process.env.ALLOWED_ORIGINS.split(',')
+  : [
+      "http://localhost:3000",
+      "http://localhost:3001",
+      "https://flowpay-backend-a97z.onrender.com"
+    ];
+
+
 // Import middleware
 const { 
   securityHeaders, 
@@ -40,7 +49,16 @@ app.use(express.urlencoded({ extended: true, limit: '10mb' }));
 
 // CORS
 app.use(cors({
-  origin: process.env.ALLOWED_ORIGINS?.split(',') || ['flowpay-backend-a97z.onrender.com'],
+  origin: function (origin, callback) {
+    // allow requests with no origin (Postman, mobile apps)
+    if (!origin) return callback(null, true);
+
+    if (allowedOrigins.includes(origin)) {
+      return callback(null, true);
+    } else {
+      return callback(new Error("CORS not allowed"));
+    }
+  },
   credentials: true
 }));
 
